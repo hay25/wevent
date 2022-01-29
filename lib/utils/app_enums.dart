@@ -1,0 +1,9 @@
+enum WTagColor {
+  W_BlUE,
+  W_PINK,
+  W_LIGHTGREEN,
+  W_DARK_GREEN,
+  W_LIGHTRED,
+  W_DARKRED,
+  W_ORANGE,
+}
